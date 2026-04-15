@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create:*)",
+      "Bash(cp -r C:/Users/User/projects/todo-app-temp/. C:/Users/User/projects/todo-app/)",
+      "Bash(rm -rf C:/Users/User/projects/todo-app-temp)",
+      "Bash(npm install:*)",
+      "Bash(mkdir -p C:/Users/User/projects/todo-app/src/components)",
+      "Bash(mkdir -p C:/Users/User/projects/todo-app/src/hooks)",
+      "Bash(npm run:*)",
+      "Bash(tasklist)",
+      "Bash(netstat -ano)",
+      "Bash(taskkill:*)",
+      "Bash(cmd.exe:*)",
+      "Bash(curl -s http://localhost:5173)",
+      "Bash(curl -s \"http://localhost:5173/src/App.jsx\")",
+      "Bash(curl -s \"http://localhost:5173/src/components/TodoInput.jsx\")",
+      "Bash(curl -s \"http://localhost:5173/src/components/TodoList.jsx\")",
+      "Bash(curl -s \"http://localhost:5173/src/components/TodoItem.jsx\")",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(del \"C:\\\\Users\\\\User\\\\Documents\\\\ObsidianVault\\\\obsidian\\\\프로젝트\\\\할일앱\\\\세션로그\\\\20260414_1600_000.md\")",
+      "mcp__obsidian__str_replace",
+      "mcp__obsidian__view"
+    ]
+  }
+}

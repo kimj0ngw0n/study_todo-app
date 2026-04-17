@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+.vercel/output
+# .vercel/project.json 은 커밋 대상 (CI에서 프로젝트 인식에 필요)
